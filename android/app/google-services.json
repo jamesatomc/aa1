@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227304993843",
+    "project_id": "test-df3df",
+    "storage_bucket": "test-df3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227304993843:android:5314956dc6d8c078f85f46",
+        "android_client_info": {
+          "package_name": "com.jiraphon.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXoeZ4d_NxlSIcolA9a3zu3YMr3KAsHGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
